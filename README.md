@@ -1,7 +1,7 @@
 # KNN-NAIVEBAYES
 
 # Description #
- Implement a K-nearest neighbor (kNN) classifier using the train dataset and a Naive Bayes classifier using the spam datasets.When modeling split the data into different parttitions i.e 80 - 20, 70 - 30, 60 - 40 to see which model works and use model optimization methods to improve models
+ Implement a K-nearest neighbor (kNN) classifier using the train dataset and a Naive Bayes classifier using the spam datasets.When modeling split the data into different parttitions i.e 80 - 20, 70 - 30, 60 - 40 to see which model works best and use model optimization methods to improve models
 
 # Main Objective #
 
